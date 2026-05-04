@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك في الليل
+> نار الشوق تكوي بلا دليل
+> عيونك تسحرني وتاخدني بعيد
+> طول ما إنت باصصلي بحس بجديد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
