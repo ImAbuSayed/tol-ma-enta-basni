@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tol Ma Enta Basni
+
+This log tracks the cryptographic history and versioning for the song **Tol Ma Enta Basni** (tol-ma-enta-basni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:46:17.235756 | `v1` | `59a05236660339a518447cd635c8009b89effa25d5bb65bf70e84e08422d0195` | `91155cd6de90a205474b2ff194e7e8432344b3ff0cc95f95daf4392a34521809` | `2026-05-08_tol-ma-enta-basni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
